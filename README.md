@@ -25,3 +25,4 @@ Flexbox and CSS positioning
 Netflix UI styling practices
 
 Live-Demo 
+https://fahadalisidd.github.io/Netflix-Clone/
